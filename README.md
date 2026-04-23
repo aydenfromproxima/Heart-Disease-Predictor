@@ -4,13 +4,13 @@ A machine learning-powered web application that predicts the likelihood of heart
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project uses a classification model trained on structured medical data to estimate the risk of heart disease. The application allows users to input patient details and receive a probability-based risk assessment categorized into Low, Moderate, or High risk.
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
 * Clean and minimal user interface
 * Human-readable input fields (no confusing numeric codes)
@@ -21,7 +21,7 @@ This project uses a classification model trained on structured medical data to e
 
 ---
 
-## 📊 Dataset Information
+##  Dataset Information
 
 The dataset consists of medical attributes commonly used in heart disease analysis, including:
 
@@ -43,7 +43,7 @@ The target variable indicates the presence or absence of heart disease.
 
 ---
 
-## 🤖 Machine Learning Model
+##  Machine Learning Model
 
 * Algorithm: Logistic Regression
 * Problem Type: Binary Classification
@@ -57,7 +57,7 @@ Why Logistic Regression?
 
 ---
 
-## 🎯 Prediction Logic
+##  Prediction Logic
 
 The model outputs a probability score which is interpreted as:
 
@@ -69,19 +69,19 @@ This approach provides more nuanced insights compared to simple yes/no predictio
 
 ---
 
-## 🖥️ User Interface Design
+##  User Interface Design
 
 The UI is structured into three logical sections:
 
-* 🧍 Basic Information
-* 💓 Heart Metrics
-* 🩺 Medical Conditions
+*  Basic Information
+*  Heart Metrics
+*  Medical Conditions
 
 Each input field includes helpful descriptions to ensure accurate data entry and improve prediction reliability.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
@@ -91,7 +91,7 @@ Each input field includes helpful descriptions to ensure accurate data entry and
 
 ---
 
-## 💻 How to Run Locally
+##  How to Run Locally
 
 Follow these steps to run the project on your system:
 
@@ -135,13 +135,13 @@ Open it in your browser to access the app.
 ---
 
 
-## 🚀 Deployment
+##  Deployment
 
 The application is deployed using Streamlit Cloud and runs entirely in the browser, allowing users to interact with the model in real time.
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 * Add feature importance visualization
 * Improve model performance with hyperparameter tuning
@@ -151,7 +151,7 @@ The application is deployed using Streamlit Cloud and runs entirely in the brows
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This application is for educational purposes only and should not be used for medical diagnosis. Always consult a qualified healthcare professional for medical advice.
 
