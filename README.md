@@ -96,8 +96,9 @@ Each input field includes helpful descriptions to ensure accurate data entry and
 Follow these steps to run the project on your system:
 
 ### 1. Clone the Repository
-
+```
 git clone https://aydenfromproxima/Heart-Disease-Predictor.git
+```
 cd Heart-Disease-Predictor
 
 ---
