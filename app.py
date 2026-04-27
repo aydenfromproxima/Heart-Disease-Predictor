@@ -139,7 +139,7 @@ with col2:
 st.divider()
 
 # ---------- PREDICT ----------
-if st.button("🔍 Predict Risk", use_container_width=True):
+if st.button("Predict Risk", use_container_width=True):
 
     input_data = pd.DataFrame([[
         age, sex, cp, trestbps, chol, fbs, restecg,
